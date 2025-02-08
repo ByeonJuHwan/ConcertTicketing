@@ -1,4 +1,4 @@
-package dev.concert.interfaces.presentation.response.token
+package dev.adapter.`in`.response
 
 import dev.concert.application.token.dto.TokenResponseDto
 

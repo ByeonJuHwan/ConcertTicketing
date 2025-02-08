@@ -1,4 +1,4 @@
-package dev.concert.domain.exception
+package dev.error
 
 import org.springframework.http.HttpStatus
 

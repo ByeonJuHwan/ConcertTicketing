@@ -1,7 +1,7 @@
-package dev.concert.interfaces
+package dev.api
 
-import dev.concert.domain.exception.ConcertException
-import dev.concert.domain.exception.ErrorCode
+import dev.error.ConcertException
+import dev.error.ErrorCode
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.http.HttpStatus

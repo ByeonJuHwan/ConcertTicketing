@@ -1,4 +1,4 @@
-package dev.concert.interfaces.presentation.response.token
+package dev.adapter.`in`.response
 
 data class TokenResponse(
     val token : String,

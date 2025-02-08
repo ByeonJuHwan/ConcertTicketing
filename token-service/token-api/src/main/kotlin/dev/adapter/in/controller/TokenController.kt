@@ -1,10 +1,9 @@
-package dev.concert.interfaces.presentation.controller
+package dev.adapter.`in`.controller
 
-import dev.concert.interfaces.ApiResult
-import dev.concert.application.token.TokenFacade
-import dev.concert.interfaces.presentation.request.TokenRequest
-import dev.concert.interfaces.presentation.response.token.TokenInfoResponse
-import dev.concert.interfaces.presentation.response.token.TokenResponse
+import dev.api.ApiResult
+import dev.adapter.`in`.request.TokenRequest
+import dev.adapter.`in`.response.TokenInfoResponse
+import dev.adapter.`in`.response.TokenResponse
 import io.swagger.v3.oas.annotations.Operation
 import io.swagger.v3.oas.annotations.responses.ApiResponse
 import io.swagger.v3.oas.annotations.responses.ApiResponses

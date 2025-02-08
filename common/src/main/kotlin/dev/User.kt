@@ -1,0 +1,4 @@
+package dev
+
+class User {
+}

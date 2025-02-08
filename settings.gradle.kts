@@ -9,3 +9,4 @@ include("token-service:token-worker")
 findProject(":token-service:token-worker")?.name = "token-worker"
 include("token-service:token-common")
 findProject(":token-service:token-common")?.name = "token-common"
+include("common")
